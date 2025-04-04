@@ -1,0 +1,12 @@
+2025-04-02 21:56:52,106 - __main__ - INFO - Coletando dados de criptomoedas...
+2025-04-02 21:56:53,152 - __main__ - ERROR - Erro durante a inserção de dados: 429 Client Error: Too Many Requests for url: https://api.coincap.io/v2/assets?limit=50
+2025-04-02 21:56:53,152 - __main__ - INFO - Conexão com o banco encerrada.
+2025-04-02 21:56:53,152 - __main__ - CRITICAL - Falha crítica: 429 Client Error: Too Many Requests for url: https://api.coincap.io/v2/assets?limit=50
+2025-04-02 23:13:17,265 - __main__ - INFO - Coletando dados de criptomoedas...
+2025-04-02 23:13:23,713 - __main__ - INFO - Dados coletados. Iniciando inserção no banco.
+2025-04-02 23:13:23,782 - __main__ - INFO - Inserção finalizada com sucesso.
+2025-04-02 23:13:23,782 - __main__ - INFO - Conexão com o banco encerrada.
+2025-04-02 23:23:52,183 - __main__ - INFO - Coletando dados de criptomoedas (limit=10)...
+2025-04-02 23:23:57,417 - __main__ - INFO - Dados coletados. Iniciando inserção no banco.
+2025-04-02 23:23:57,489 - __main__ - INFO - Inserção finalizada com sucesso.
+2025-04-02 23:23:57,489 - __main__ - INFO - Conexão com o banco encerrada.

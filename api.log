@@ -1,0 +1,5 @@
+2025-04-02 21:56:53,151 - api - ERROR - Erro ao obter dados da API: 429 Client Error: Too Many Requests for url: https://api.coincap.io/v2/assets?limit=50
+2025-04-02 23:13:18,327 - api - WARNING - 429 Too Many Requests. Aguardando 5 segundos para retentativa (tentativa 1).
+2025-04-02 23:13:23,713 - api - INFO - Sucesso ao obter 10 criptomoedas na tentativa 2.
+2025-04-02 23:23:53,260 - api - WARNING - 429 Too Many Requests. Tentativa 1/5. Aguardando 3.1s antes de nova tentativa.
+2025-04-02 23:23:57,417 - api - INFO - Sucesso ao obter 10 criptomoedas (tentativa 2).
