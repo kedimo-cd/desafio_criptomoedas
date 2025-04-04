@@ -22,8 +22,8 @@ Este projeto tem como objetivo consumir dados de criptomoedas da **API pública 
 1. Abra seu terminal na pasta onde deseja clonar o projeto.
 2. Execute:
    ```bash
-   git clone <Uhttps://github.com/kedimo-cd/desafio_criptomoedas.git>
-   cd <NOME_DA_PASTA_CLONADA>
+   git clone https://github.com/kedimo-cd/desafio_criptomoedas.git
+   cd desafio_criptomoedas
    ```
 
 ### 2: Configurar o Ambiente Virtual
